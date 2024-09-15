@@ -21,7 +21,7 @@ Free Cookie Consent is a free cookies management solution by [TermsFeed](https:/
                 cookieconsent.run({
                     "notice_banner_type": "headline",
                     "cookies_policy_url": "http://www.termsfeed.com/",
-                    "consent_type": "implied",
+                    "consent_type": "express",
                     "palette": "light",
                     "website_name": "TermsFeed Cookie Consent",
                     "language": "en",
@@ -42,7 +42,7 @@ Free Cookie Consent is a free cookies management solution by [TermsFeed](https:/
                 cookieconsent.run({
                     "notice_banner_type": "headline",
                     "cookies_policy_url": "http://www.termsfeed.com/",
-                    "consent_type": "implied",
+                    "consent_type": "express",
                     "palette": "light",
                     "website_name": "TermsFeed Cookie Consent",
                     "language": "en",
@@ -84,7 +84,7 @@ The below example includes the install + config code, the button to open Prefere
             cookieconsent.run({
                 "notice_banner_type": "headline",
                 "cookies_policy_url": "http://www.termsfeed.com/",
-                "consent_type": "implied",
+                "consent_type": "express",
                 "palette": "light",
                 "website_name": "TermsFeed Cookie Consent",
                 "language": "en",
